@@ -17,9 +17,6 @@ python3 test.py
 ```
 
 
-(“fluccs_data/Lang_1.csv" and “fluccs_data/Lang_20.csv" should be in the same directory with “test.py”)
-
-
 * Requirements 
 
 ```bash
